@@ -48,7 +48,7 @@ header span {
     align-items: center;
 }
 
-#respuesta{
+#respuestaNombre,#respuestaRegion,#respuestaMoneda{
     margin-top: 10px;
     height:50px;
     width:400px;
@@ -61,6 +61,8 @@ header span {
     
    
 }
+
+
 
 #submit {
     display:inline-block;
